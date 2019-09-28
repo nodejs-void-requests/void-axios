@@ -1,0 +1,19 @@
+{
+  "name": "@nao20010128nao/void-axios",
+  "version": "1.0.0",
+  "description": "axios-like one that always fail",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodejs-void-requests/void-axios.git"
+  },
+  "author": "nao20010128nao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nodejs-void-requests/void-axios/issues"
+  },
+  "homepage": "https://github.com/nodejs-void-requests/void-axios#readme"
+}
